@@ -1,12 +1,21 @@
-## Hi there, I'm ABUTHALIB
+## Hi, I'm ABUTHALIB
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
 
-- I'm a **Learner** | **Programmer** 
-- About me :- **2x Kaggle Master** | **ML & DS Enthusiast**
+- I'm a **Learner** | **Programmer**- 👋 
+- 👀 I’m interested in .Technologies..
+- 🌱 I’m a Bachelore in computer application...
+- 💞️ I’m looking to collaborate on web development ...
+- 📫 How to reach me @thaluthalib2000@gmail.com...
+
+<!---
+Abuthalib/Abuthalib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 - Currently **Intern as Python Django developer  at Brototype **
 - Willing to contribute more and more in **Python related project**
 
