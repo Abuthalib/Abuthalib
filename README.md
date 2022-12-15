@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuthalib)](https://github.com/Abuthalib/github-readme-stats)
 
 
