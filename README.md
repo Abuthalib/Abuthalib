@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - Currently **Intern as Python Django developer  at Brototype **
 - Willing to contribute more and more in **Python related project**
 
-
+[![Abuthalib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abuthalib)](https://github.com/Abuthalib/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abuthalib)](https://github.com/Abuthalib/github-readme-stats)
 
 ### Programming Languages....
