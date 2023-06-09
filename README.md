@@ -33,6 +33,10 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://www.credly.com/badges/963a5bc7-f8fc-46d3-8601-5bbae01ad2c9/public_url">
 		<img  width="18%" alt="courssera_url" src='https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png'/>
 	</a>
+	
+	<a href="https://www.credly.com/badges/5ef29e02-1cb1-4e3c-a61b-c5013ace5a86/public_url">
+		<img  width="18%" alt="courssera_url" src='https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png'/>
+	</a>
 
 	
 	
