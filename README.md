@@ -31,11 +31,8 @@ You can click the Preview link to take a look at your changes.
 ### **Licenses & certifications**....
 
 <p align="center">
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="963a5bc7-f8fc-46d3-8601-5bbae01ad2c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5ef29e02-1cb1-4e3c-a61b-c5013ace5a86" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-	
-	<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="14b0b29c-020d-429b-b05b-4a7ad3345f3d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	<img width="10%" style="padding:5px" src=""/>
+	<img width="10%" style="padding:5px" src="https://www.credly.com/badges/14b0b29c-020d-429b-b05b-4a7ad3345f3d/public_url"/>
 	
 	
 	
