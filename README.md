@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ### Licenses & certifications....
 <p align="center">
 	<a href="https://www.credly.com/badges/963a5bc7-f8fc-46d3-8601-5bbae01ad2c9/public_url">
-		<img  width="10%" alt="courssera_url" src='https://images.credly.com/images/2a334906-fff1-4047-bcd9-be94347d0dca/Chatbot_Building_Essentials_Foundational.png'/>
+		<img  width="18%" alt="courssera_url" src='https://images.credly.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png'/>
 	</a>
 
 	
