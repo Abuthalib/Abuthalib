@@ -28,12 +28,9 @@ You can click the Preview link to take a look at your changes.
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	
-### **Licenses & certifications**....
-
+### Licenses & certifications....
 <p align="center">
-	<img width="10%" style="padding:5px" src=""/>
-	<img width="10%" style="padding:5px" src="https://www.credly.com/badges/14b0b29c-020d-429b-b05b-4a7ad3345f3d/public_url"/>
-	
+
 	
 	
 ### Feel Free to Contact me.....
