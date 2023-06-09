@@ -31,6 +31,7 @@ You can click the Preview link to take a look at your changes.
 ### Licenses & certifications....
 <p align="center">
 	<a href="https://www.credly.com/badges/963a5bc7-f8fc-46d3-8601-5bbae01ad2c9/public_url">
+		<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 		<img alt="courssera_url" src='https://images.credly.com/size/220x220/images/5ae9…2eb-d2b4cfea9751/Machine_Learning_with_Python.png'/>
 	</a>
 
