@@ -39,6 +39,9 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://www.credly.com/badges/14b0b29c-020d-429b-b05b-4a7ad3345f3d/public_url">
 	<img  width="18%" alt="courssera_python" src='https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png'/>
 	</a>
+	<a href="https://coursera.org/share/212a28a4ca88911f4b8a3db091e1f47a">
+	<img  width="18%" alt="courssera_python" src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/70/de505d47be7d3a063b51b6f856a6e2/New-Block-M-Stacked-Blue-295C_600x600.png?auto=format%2Ccompress&dpr=1&w=80&h=80'/>
+	</a>
 
 </p>
 	
