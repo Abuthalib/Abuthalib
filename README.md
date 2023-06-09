@@ -35,9 +35,10 @@ You can click the Preview link to take a look at your changes.
 	</a>
 	
 	<a href="https://www.credly.com/badges/5ef29e02-1cb1-4e3c-a61b-c5013ace5a86/public_url">
-		<img  width="18%" alt="courssera_python" src='https://images.credly.com/size/680x680/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png'/>
+		<img  width="18%" alt="courssera_python" 
+		     src='https://images.credly.com/size/220x220/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png'/>
 	</a>
-
+</p>
 	
 	
 ### Feel Free to Contact me.....
