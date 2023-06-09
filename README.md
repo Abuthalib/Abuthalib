@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 	<img  width="18%" alt="courssera_python" src='https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png'/>
 	</a>
 	<a href="https://coursera.org/share/212a28a4ca88911f4b8a3db091e1f47a">
-	<img  width="15%" alt="courssera_python" src='https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png'/>
+	<img  width="18%" alt="courssera_python" src='https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png'/>
 	</a>
 
 </p>
